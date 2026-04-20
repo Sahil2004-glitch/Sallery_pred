@@ -9,7 +9,7 @@ Original file is located at
 
 import pandas as pd
 
-df = pd.read_csv("/content/Salary_Dataset_DataScienceLovers.csv")
+df = pd.read_csv("https://github.com/Sahil2004-glitch/Sallery_pred/blob/main/Salary_Dataset_DataScienceLovers.csv")
 df
 
 df.info()
